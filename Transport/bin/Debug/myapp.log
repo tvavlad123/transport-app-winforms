@@ -1,0 +1,425 @@
+2019-03-16 16:52:24,190 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 16:52:25,047 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 16:52:25,096 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 16:52:25,100 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 16:52:25,222 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 16:52:25,222 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 16:52:25,226 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 16:52:25,226 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 16:52:25,243 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 16:52:25,244 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 16:52:25,244 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 16:52:25,247 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 16:52:25,248 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 16:52:25,248 [1] INFO RideDBRepository - Try to find all
+2019-03-16 16:52:25,248 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 16:52:25,250 [1] INFO Transport.Program - hi.
+2019-03-16 18:07:56,052 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 18:07:57,467 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 18:07:57,511 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 18:07:57,515 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:07:57,766 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 18:07:57,766 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:07:57,769 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 18:07:57,770 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:07:57,789 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:07:57,790 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:07:57,790 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:07:57,796 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:07:57,797 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 18:07:57,798 [1] INFO RideDBRepository - Try to find all
+2019-03-16 18:07:57,798 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:41,808 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 18:28:46,918 [1] INFO EmployeeDBRepository - Try to find employee by username
+2019-03-16 18:28:46,921 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:47,094 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:28:47,095 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 18:28:47,096 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 18:28:47,097 [1] INFO RideDBRepository - Try to find all
+2019-03-16 18:28:47,097 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:47,103 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:28:47,103 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:47,105 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:28:47,105 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:47,105 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:28:47,105 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:47,106 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:28:47,106 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,395 [1] INFO RideDBRepository - Try to find all
+2019-03-16 18:28:56,395 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,398 [1] INFO BookingDBRepository - Try to find by rideId 1
+2019-03-16 18:28:56,398 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,399 [1] INFO ClientDBRepository - Try to find id 1
+2019-03-16 18:28:56,399 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,400 [1] INFO ClientDBRepository - Try to find id 3
+2019-03-16 18:28:56,400 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,400 [1] INFO ClientDBRepository - Try to find id 2
+2019-03-16 18:28:56,400 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,400 [1] INFO ClientDBRepository - Try to find id 5
+2019-03-16 18:28:56,400 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:28:56,401 [1] INFO ClientDBRepository - Try to find id 6
+2019-03-16 18:28:56,401 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:29:01,160 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 18:29:01,161 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 18:29:01,161 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:29:01,168 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 18:29:01,168 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:29:01,175 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 18:29:01,177 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:29:01,200 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:29:01,201 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:29:01,201 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:29:01,201 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:29:01,202 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 18:29:01,202 [1] INFO RideDBRepository - Try to find all
+2019-03-16 18:29:01,202 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:35:59,883 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 18:36:00,752 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 18:36:00,772 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 18:36:00,783 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:36:00,937 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 18:36:00,937 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:36:00,942 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 18:36:00,944 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:36:00,979 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:36:00,980 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 18:36:00,982 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 18:36:00,989 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 18:36:00,990 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 18:36:00,990 [1] INFO RideDBRepository - Try to find all
+2019-03-16 18:36:00,990 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 19:02:10,932 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 19:02:11,748 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 19:02:11,784 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 19:02:11,788 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 19:02:11,921 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 19:02:11,921 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 19:02:11,926 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 19:02:11,927 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 19:02:11,946 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 19:02:11,946 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 19:02:11,946 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 19:02:11,950 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 19:02:11,950 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 19:02:11,951 [1] INFO RideDBRepository - Try to find all
+2019-03-16 19:02:11,951 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 19:02:11,954 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:00:16,986 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:00:17,000 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:00:17,001 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:00:17,001 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:00:17,018 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:00:17,019 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:00:17,019 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:00:17,019 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:00:17,020 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:00:17,020 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:00:17,020 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:00:17,020 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:00:17,022 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:00:17,022 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:00:17,022 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:00:17,022 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:00:17,023 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:00:17,023 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:00:17,023 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:00:17,023 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:00:17,028 [14] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:00:17,030 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:00:17,191 [14] INFO EmployeeDBRepository - Try to add employee Transport.Model.Employee
+2019-03-16 22:00:17,191 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:01:20,672 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:01:20,683 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:01:20,684 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:01:20,684 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:01:20,701 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:01:20,701 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:01:20,701 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:01:20,701 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:01:20,702 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:01:20,702 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:01:20,702 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:01:20,702 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:01:20,705 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:01:20,705 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:01:20,705 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:01:20,705 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:01:20,706 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:01:20,706 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:01:20,706 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:01:20,706 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:01:20,711 [14] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:01:20,713 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:01:20,813 [14] INFO EmployeeDBRepository - Try to add employee Transport.Model.Employee
+2019-03-16 22:01:20,813 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:02:15,725 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:02:15,735 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:02:15,736 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:02:15,736 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:02:15,753 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:02:15,754 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:02:15,754 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:02:15,754 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:02:15,755 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:02:15,755 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:02:15,755 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:02:15,755 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:02:15,757 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:02:15,757 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:02:15,757 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:02:15,757 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:02:15,758 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:02:15,758 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:02:15,758 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:02:15,758 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:02:15,763 [14] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:02:15,765 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:02:15,868 [14] INFO EmployeeDBRepository - Try to add employee Transport.Model.Employee
+2019-03-16 22:02:15,868 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:04:54,216 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:04:54,226 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:04:54,227 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:04:54,227 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:04:54,244 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:04:54,244 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:04:54,244 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:04:54,244 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:04:54,245 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:04:54,245 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:04:54,245 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:04:54,245 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:04:54,247 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:04:54,247 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:04:54,247 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:04:54,247 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:04:54,248 [14] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:04:54,248 [14] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:04:54,248 [14] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:04:54,248 [14] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:04:54,253 [14] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:04:54,255 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:04:54,357 [14] INFO EmployeeDBRepository - Try to add employee Transport.Model.Employee
+2019-03-16 22:04:54,357 [14] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:19:01,383 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:19:02,654 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:19:02,666 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:19:02,668 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:19:02,852 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 22:19:02,852 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:19:02,856 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 22:19:02,857 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:19:02,875 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:19:02,876 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:19:02,876 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:19:02,881 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:19:02,883 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:19:02,883 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:19:02,883 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:37:50,338 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:37:55,354 [1] INFO EmployeeDBRepository - Try to find employee by username
+2019-03-16 22:37:55,357 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:37:55,404 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:37:55,406 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:37:55,406 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:37:55,407 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:37:55,407 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:37:55,410 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:37:55,410 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:37:55,411 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:37:55,411 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:37:55,412 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:37:55,412 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:37:55,412 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:37:55,412 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,069 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:38:04,069 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,073 [1] INFO BookingDBRepository - Try to find by rideId 1
+2019-03-16 22:38:04,073 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,075 [1] INFO ClientDBRepository - Try to find id 1
+2019-03-16 22:38:04,075 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,076 [1] INFO ClientDBRepository - Try to find id 3
+2019-03-16 22:38:04,076 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,076 [1] INFO ClientDBRepository - Try to find id 2
+2019-03-16 22:38:04,076 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,076 [1] INFO ClientDBRepository - Try to find id 5
+2019-03-16 22:38:04,076 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:04,077 [1] INFO ClientDBRepository - Try to find id 6
+2019-03-16 22:38:04,077 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:07,794 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:38:07,795 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:38:07,795 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:07,796 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 22:38:07,796 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:07,803 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 22:38:07,805 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:07,856 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:38:07,856 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:38:07,856 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:38:07,857 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:38:07,857 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:38:07,857 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:38:07,857 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:58:56,654 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:59:02,209 [1] INFO EmployeeDBRepository - Try to find employee by username
+2019-03-16 22:59:02,211 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:02,244 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:59:02,245 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:59:02,246 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:59:02,247 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:59:02,247 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:02,250 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:59:02,250 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:02,252 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:59:02,252 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:02,252 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:59:02,252 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:02,253 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:59:02,253 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,330 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:59:30,330 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,334 [1] INFO BookingDBRepository - Try to find by rideId 1
+2019-03-16 22:59:30,334 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,335 [1] INFO ClientDBRepository - Try to find id 1
+2019-03-16 22:59:30,335 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,336 [1] INFO ClientDBRepository - Try to find id 3
+2019-03-16 22:59:30,336 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,336 [1] INFO ClientDBRepository - Try to find id 2
+2019-03-16 22:59:30,337 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,337 [1] INFO ClientDBRepository - Try to find id 5
+2019-03-16 22:59:30,337 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:30,337 [1] INFO ClientDBRepository - Try to find id 6
+2019-03-16 22:59:30,337 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:44,215 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:59:44,215 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:59:44,215 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 22:59:44,216 [1] INFO ClientDBRepository - Try to add client Transport.Model.Client
+2019-03-16 22:59:44,217 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:44,233 [1] INFO BookingDBRepository - Try to find all
+2019-03-16 22:59:44,233 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:44,234 [1] INFO ClientDBRepository - Try to find by name
+2019-03-16 22:59:44,234 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:44,235 [1] INFO BookingDBRepository - Try to add booking Transport.Model.Booking
+2019-03-16 22:59:44,235 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,323 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:59:45,323 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,323 [1] INFO BookingDBRepository - Try to find by rideId 1
+2019-03-16 22:59:45,323 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,323 [1] INFO ClientDBRepository - Try to find id 1
+2019-03-16 22:59:45,324 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,324 [1] INFO ClientDBRepository - Try to find id 3
+2019-03-16 22:59:45,324 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,324 [1] INFO ClientDBRepository - Try to find id 2
+2019-03-16 22:59:45,324 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,324 [1] INFO ClientDBRepository - Try to find id 5
+2019-03-16 22:59:45,324 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,324 [1] INFO ClientDBRepository - Try to find id 6
+2019-03-16 22:59:45,325 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:45,325 [1] INFO ClientDBRepository - Try to find id 7
+2019-03-16 22:59:45,325 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:52,111 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 22:59:52,112 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 22:59:52,112 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:52,113 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 22:59:52,113 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:52,120 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 22:59:52,122 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:52,143 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:59:52,143 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 22:59:52,143 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:52,144 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 22:59:52,144 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 22:59:52,144 [1] INFO RideDBRepository - Try to find all
+2019-03-16 22:59:52,144 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 22:59:56,960 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 23:00:04,038 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 23:00:04,070 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 23:00:04,075 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:04,157 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 23:00:04,157 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:04,159 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 23:00:04,160 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:04,169 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 23:00:04,169 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 23:00:04,169 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:04,172 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 23:00:04,172 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 23:00:04,173 [1] INFO RideDBRepository - Try to find all
+2019-03-16 23:00:04,173 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:20,104 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 23:00:24,169 [1] INFO EmployeeDBRepository - Try to find employee by username
+2019-03-16 23:00:24,171 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:32,966 [1] INFO EmployeeDBRepository - Try to find employee by username
+2019-03-16 23:00:32,966 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:32,975 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 23:00:32,976 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 23:00:32,977 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-16 23:00:32,979 [1] INFO RideDBRepository - Try to find all
+2019-03-16 23:00:32,979 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:32,982 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 23:00:32,983 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:32,985 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 23:00:32,985 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:32,986 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 23:00:32,986 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:32,986 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 23:00:32,986 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,619 [1] INFO RideDBRepository - Try to find all
+2019-03-16 23:00:58,619 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,623 [1] INFO BookingDBRepository - Try to find by rideId 1
+2019-03-16 23:00:58,623 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,625 [1] INFO ClientDBRepository - Try to find id 1
+2019-03-16 23:00:58,625 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,626 [1] INFO ClientDBRepository - Try to find id 3
+2019-03-16 23:00:58,626 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,626 [1] INFO ClientDBRepository - Try to find id 2
+2019-03-16 23:00:58,626 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,626 [1] INFO ClientDBRepository - Try to find id 5
+2019-03-16 23:00:58,627 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,627 [1] INFO ClientDBRepository - Try to find id 6
+2019-03-16 23:00:58,627 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:00:58,627 [1] INFO ClientDBRepository - Try to find id 7
+2019-03-16 23:00:58,627 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:01:42,565 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-16 23:01:42,566 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-16 23:01:42,566 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:01:42,567 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-16 23:01:42,568 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:01:42,573 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-16 23:01:42,575 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:01:42,607 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 23:01:42,610 [1] INFO RideDBRepository - Try to find ride
+2019-03-16 23:01:42,610 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-16 23:01:42,614 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-16 23:01:42,615 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-16 23:01:42,616 [1] INFO RideDBRepository - Try to find all
+2019-03-16 23:01:42,616 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:29,359 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-17 16:18:34,047 [1] INFO EmployeeDBRepository - Try to find employee by username
+2019-03-17 16:18:34,049 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:34,169 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-17 16:18:34,170 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-17 16:18:34,171 [1] INFO ClientDBRepository - Creating ClientDBValidator
+2019-03-17 16:18:34,172 [1] INFO RideDBRepository - Try to find all
+2019-03-17 16:18:34,172 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:34,174 [1] INFO RideDBRepository - Try to find ride
+2019-03-17 16:18:34,174 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:34,176 [1] INFO RideDBRepository - Try to find ride
+2019-03-17 16:18:34,176 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:34,177 [1] INFO RideDBRepository - Try to find ride
+2019-03-17 16:18:34,177 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:34,177 [1] INFO RideDBRepository - Try to find ride
+2019-03-17 16:18:34,177 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:43,153 [1] INFO EmployeeDBRepository - Creating EmployeeDBValidator
+2019-03-17 16:18:43,154 [1] INFO EmployeeDBRepository - Try to find size
+2019-03-17 16:18:43,155 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:43,157 [1] INFO EmployeeDBRepository - Try to find all
+2019-03-17 16:18:43,157 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:43,162 [1] INFO EmployeeDBRepository - Try to update employee with id 5 and value Transport.Model.Employee
+2019-03-17 16:18:43,163 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:43,189 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-17 16:18:43,189 [1] INFO RideDBRepository - Try to find ride
+2019-03-17 16:18:43,189 [1] DEBUG Transport.Repository.DBUtils - Get connection
+2019-03-17 16:18:43,190 [1] INFO RideDBRepository - Creating RideDBRepository
+2019-03-17 16:18:43,190 [1] INFO BookingDBRepository - Creating BookingDBRepository
+2019-03-17 16:18:43,190 [1] INFO RideDBRepository - Try to find all
+2019-03-17 16:18:43,190 [1] DEBUG Transport.Repository.DBUtils - Get connection
